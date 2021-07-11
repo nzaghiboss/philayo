@@ -1,0 +1,112 @@
+.philip a{
+    color: #ffffff !important;
+}
+
+.but{
+    border-radius: 5px;
+    border: none;
+    background-color: #fffefb;
+}
+
+.nav-link{
+    color: #ffffff !important;
+}
+
+.butt{
+    width: 150px;
+    background-color: #562900 !important;
+}
+
+.navbar{
+    background-color: #562900;
+}
+
+.one h1{
+    color: #562900;
+}
+
+.one p{
+    color: #562900;
+    font-size: 30px;
+}
+
+
+.bot{
+    margin-left: 120px;
+}
+
+.container2-fluid{
+    background-color: rgb(233, 236, 236);
+}
+
+.ofs{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-bottom: -1px;
+}
+
+.ofs h1{
+    color: #562900;
+    font-size: 30px;
+}
+
+.ofs p{
+    color: #562900;
+}
+
+.containers{
+    background-color: rgb(233, 236, 236);
+}
+
+
+.container3-fluid{
+    background-color: rgb(233, 236, 236);
+}
+
+.pho img{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    border-radius: 50%;
+
+}
+
+.two h1{
+    color: #562900;
+    padding-left: 80px;
+}
+
+.two p{
+    color: #562900;
+    padding-left: 80px;
+}
+
+.container1-fluid{
+    background-color: #562900;
+    color: #ffffff;
+    padding-top: 50px;
+    padding-left: 60px;
+}
+
+.container1-fluid p{
+    font-size: 13px;
+}
+
+.six{
+    height: 50px;
+    width: 300px;
+    background-color: #ffffff;
+    border-radius: 3px;
+    
+}
+
+.six button{
+    background-color: #562900;
+    color: #ffffff;
+    border: 0px;
+    border-radius: 3px;
+    margin-left: 150px;
+    height: 30px;
+    width: 80px;
+    margin-top: 10px;
+
+}
